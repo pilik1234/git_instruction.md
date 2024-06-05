@@ -1,0 +1,67 @@
+2024-05-07 20:55:47|ArchiSteamFarm-17916|INFO|ASF|InitCore() ArchiSteamFarm V6.0.2.6 (win-x64/29dd1b52dd134a1f9b51ec7b883a0330 | .NET 8.0.4; win-x64; Microsoft Windows 10.0.19045) in [C:\Users\Ivan\Desktop\Новая папка (2)]
+2024-05-07 20:55:47|ArchiSteamFarm-17916|INFO|ASF|InitCore() Copyright © 2015-2024 JustArchiNET
+2024-05-07 20:55:47|ArchiSteamFarm-17916|INFO|ASF|WarnAboutIncompleteTranslation() ASF будет пытаться использовать выбранный язык ru-RU (Russian (Russia)), но перевод готов только на 99,5 %. Возможно, вы смогли бы помочь улучшить перевод ASF на данный язык.
+2024-05-07 20:55:47|ArchiSteamFarm-17916|INFO|ASF|InitPlugins() Инициализация Plugins...
+2024-05-07 20:55:48|ArchiSteamFarm-17916|INFO|ASF|InitPlugins() Загрузка ItemsMatcherPlugin V6.0.2.6...
+2024-05-07 20:55:48|ArchiSteamFarm-17916|INFO|ASF|InitPlugins() ItemsMatcherPlugin был успешно загружен!
+2024-05-07 20:55:48|ArchiSteamFarm-17916|INFO|ASF|InitPlugins() Загрузка MobileAuthenticatorPlugin V6.0.2.6...
+2024-05-07 20:55:48|ArchiSteamFarm-17916|INFO|ASF|InitPlugins() MobileAuthenticatorPlugin был успешно загружен!
+2024-05-07 20:55:48|ArchiSteamFarm-17916|INFO|ASF|InitPlugins() Загрузка SteamTokenDumperPlugin V6.0.2.6...
+2024-05-07 20:55:48|ArchiSteamFarm-17916|INFO|ASF|InitPlugins() SteamTokenDumperPlugin был успешно загружен!
+2024-05-07 20:55:48|ArchiSteamFarm-17916|INFO|ASF|UpdateAndRestart() ASF будет автоматически проверять обновления с интервалом в один день.
+2024-05-07 20:55:48|ArchiSteamFarm-17916|INFO|ASF|UpdateASF() Проверка новой версии...
+2024-05-07 20:55:48|ArchiSteamFarm-17916|INFO|ASF|UpdateASF() Установленная версия: 6.0.2.6 | Актуальная версия: 6.0.2.6
+2024-05-07 20:55:48|ArchiSteamFarm-17916|INFO|ASF|Load() Загрузка глобального кэша STD...
+2024-05-07 20:55:48|ArchiSteamFarm-17916|INFO|ASF|Load() Проверка целостности глобального кэша STD...
+2024-05-07 20:55:48|ArchiSteamFarm-17916|INFO|ASF|OnASFInit() SteamTokenDumperPlugin сейчас выключен в соответствии с вашей конфигурацией. Если вы хотите помочь SteamDB в сборе данных, пожалуйста посетите нашу wiki.
+2024-05-07 20:55:48|ArchiSteamFarm-17916|INFO|ASF|StartInteractiveConsole() Включена интерактивная консоль, нажмите 'c' чтобы перейти в режим команд.
+2024-05-07 20:55:48|ArchiSteamFarm-17916|INFO|ASF|Start() Запуск IPC сервера...
+2024-05-07 20:55:48|ArchiSteamFarm-17916|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:1242
+2024-05-07 20:55:48|ArchiSteamFarm-17916|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2024-05-07 20:55:48|ArchiSteamFarm-17916|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2024-05-07 20:55:48|ArchiSteamFarm-17916|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Ivan\Desktop\Новая папка (2)
+2024-05-07 20:55:48|ArchiSteamFarm-17916|INFO|ASF|Start() IPC сервер готов!
+2024-05-07 20:55:49|ArchiSteamFarm-17916|INFO|ivan|Start() Запуск...
+2024-05-07 20:55:49|ArchiSteamFarm-17916|INFO|ivan|Connect() Подключение...
+2024-05-07 20:55:49|ArchiSteamFarm-17916|INFO|ivan|OnConnected() Подключен к Steam!
+2024-05-07 20:55:49|ArchiSteamFarm-17916|INFO|ivan|OnConnected() Вход...
+2024-05-07 20:55:50|ArchiSteamFarm-17916|INFO|ivan|OnLoggedOn() Успешный вход как 76561198413180798/pilik123.
+2024-05-07 20:55:50|ArchiSteamFarm-17916|INFO|ivan|Init() Успешно!
+2024-05-07 20:55:51|ArchiSteamFarm-17916|INFO|ivan|IsAnythingToFarm() Проверка первой страницы значков...
+2024-05-07 20:55:53|ArchiSteamFarm-17916|INFO|ivan|IsAnythingToFarm() Проверка остальных страниц значков...
+2024-05-07 20:55:56|ArchiSteamFarm-17916|INFO|ivan|Farm() Всего осталось 9 игр (22 карт), примерно (~11 часов)...
+2024-05-07 20:55:56|ArchiSteamFarm-17916|INFO|ivan|Farm() Выбранный алгоритм фарма: Complex
+2024-05-07 20:55:57|ArchiSteamFarm-17916|INFO|ivan|FarmSolo() Сейчас фармится: 571310 (SteamWorld Dig 2)
+2024-05-07 20:55:58|ArchiSteamFarm-17916|INFO|ivan|ShouldFarm() Статус фарма для 571310 (SteamWorld Dig 2): 1 карты осталось
+2024-05-07 20:55:58|ArchiSteamFarm-17916|INFO|ivan|FarmCards() Идёт фарм: 571310 (SteamWorld Dig 2)
+2024-05-07 21:11:16|ArchiSteamFarm-17916|INFO|ivan|ShouldFarm() Статус фарма для 571310 (SteamWorld Dig 2): 1 карты осталось
+2024-05-07 21:11:16|ArchiSteamFarm-17916|INFO|ivan|FarmCards() Идёт фарм: 571310 (SteamWorld Dig 2)
+2024-05-07 21:26:32|ArchiSteamFarm-17916|INFO|ivan|ShouldFarm() Статус фарма для 571310 (SteamWorld Dig 2): 1 карты осталось
+2024-05-07 21:26:32|ArchiSteamFarm-17916|INFO|ivan|FarmCards() Идёт фарм: 571310 (SteamWorld Dig 2)
+2024-05-07 21:41:48|ArchiSteamFarm-17916|INFO|ivan|ShouldFarm() Статус фарма для 571310 (SteamWorld Dig 2): 1 карты осталось
+2024-05-07 21:41:48|ArchiSteamFarm-17916|INFO|ivan|FarmCards() Идёт фарм: 571310 (SteamWorld Dig 2)
+2024-05-07 21:56:32|ArchiSteamFarm-17916|INFO|ivan|ShouldFarm() Статус фарма для 571310 (SteamWorld Dig 2): 0 карты осталось
+2024-05-07 21:56:32|ArchiSteamFarm-17916|INFO|ivan|FarmCards() Фарм остановлен: 571310 (SteamWorld Dig 2)
+2024-05-07 21:56:32|ArchiSteamFarm-17916|INFO|ivan|FarmSolo() Фарм завершён: 571310 (SteamWorld Dig 2) спустя 4 часа, 6 минут, 27 секунд игрового времени!
+2024-05-07 21:56:33|ArchiSteamFarm-17916|INFO|ivan|FarmSolo() Сейчас фармится: 238010 (Deus Ex: Human Revolution - Director's Cut)
+2024-05-07 21:56:34|ArchiSteamFarm-17916|INFO|ivan|ShouldFarm() Статус фарма для 238010 (Deus Ex: Human Revolution - Director's Cut): 3 карты осталось
+2024-05-07 21:56:34|ArchiSteamFarm-17916|INFO|ivan|FarmCards() Идёт фарм: 238010 (Deus Ex: Human Revolution - Director's Cut)
+2024-05-07 22:11:50|ArchiSteamFarm-17916|INFO|ivan|ShouldFarm() Статус фарма для 238010 (Deus Ex: Human Revolution - Director's Cut): 3 карты осталось
+2024-05-07 22:11:50|ArchiSteamFarm-17916|INFO|ivan|FarmCards() Идёт фарм: 238010 (Deus Ex: Human Revolution - Director's Cut)
+2024-05-07 22:26:53|ArchiSteamFarm-17916|INFO|ivan|ShouldFarm() Статус фарма для 238010 (Deus Ex: Human Revolution - Director's Cut): 2 карты осталось
+2024-05-07 22:26:53|ArchiSteamFarm-17916|INFO|ivan|FarmCards() Идёт фарм: 238010 (Deus Ex: Human Revolution - Director's Cut)
+2024-05-07 22:42:09|ArchiSteamFarm-17916|INFO|ivan|ShouldFarm() Статус фарма для 238010 (Deus Ex: Human Revolution - Director's Cut): 2 карты осталось
+2024-05-07 22:42:09|ArchiSteamFarm-17916|INFO|ivan|FarmCards() Идёт фарм: 238010 (Deus Ex: Human Revolution - Director's Cut)
+2024-05-07 22:57:03|ArchiSteamFarm-17916|INFO|ivan|ShouldFarm() Статус фарма для 238010 (Deus Ex: Human Revolution - Director's Cut): 1 карты осталось
+2024-05-07 22:57:03|ArchiSteamFarm-17916|INFO|ivan|FarmCards() Идёт фарм: 238010 (Deus Ex: Human Revolution - Director's Cut)
+2024-05-07 23:12:20|ArchiSteamFarm-17916|INFO|ivan|ShouldFarm() Статус фарма для 238010 (Deus Ex: Human Revolution - Director's Cut): 1 карты осталось
+2024-05-07 23:12:20|ArchiSteamFarm-17916|INFO|ivan|FarmCards() Идёт фарм: 238010 (Deus Ex: Human Revolution - Director's Cut)
+2024-05-07 23:27:15|ArchiSteamFarm-17916|INFO|ivan|ShouldFarm() Статус фарма для 238010 (Deus Ex: Human Revolution - Director's Cut): 0 карты осталось
+2024-05-07 23:27:15|ArchiSteamFarm-17916|INFO|ivan|FarmCards() Фарм остановлен: 238010 (Deus Ex: Human Revolution - Director's Cut)
+2024-05-07 23:27:15|ArchiSteamFarm-17916|INFO|ivan|FarmSolo() Фарм завершён: 238010 (Deus Ex: Human Revolution - Director's Cut) спустя 5 часов, 36 минут, 33 секунды игрового времени!
+2024-05-07 23:27:16|ArchiSteamFarm-17916|INFO|ivan|FarmSolo() Сейчас фармится: 1958600 (Barro F22)
+2024-05-07 23:27:17|ArchiSteamFarm-17916|INFO|ivan|ShouldFarm() Статус фарма для 1958600 (Barro F22): 2 карты осталось
+2024-05-07 23:27:17|ArchiSteamFarm-17916|INFO|ivan|FarmCards() Идёт фарм: 1958600 (Barro F22)
+2024-05-07 23:42:33|ArchiSteamFarm-17916|INFO|ivan|ShouldFarm() Статус фарма для 1958600 (Barro F22): 2 карты осталось
+2024-05-07 23:42:33|ArchiSteamFarm-17916|INFO|ivan|FarmCards() Идёт фарм: 1958600 (Barro F22)
+2024-05-07 23:55:59|ArchiSteamFarm-17916|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...

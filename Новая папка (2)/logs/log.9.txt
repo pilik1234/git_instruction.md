@@ -1,0 +1,50 @@
+2024-05-04 20:11:47|ArchiSteamFarm-26976|INFO|ASF|InitCore() ArchiSteamFarm V6.0.2.6 (win-x64/29dd1b52dd134a1f9b51ec7b883a0330 | .NET 8.0.4; win-x64; Microsoft Windows 10.0.19045) in [C:\Users\Ivan\Desktop\Новая папка (2)]
+2024-05-04 20:11:47|ArchiSteamFarm-26976|INFO|ASF|InitCore() Copyright © 2015-2024 JustArchiNET
+2024-05-04 20:11:49|ArchiSteamFarm-26976|INFO|ASF|InitPlugins() 正在初始化 Plugins……
+2024-05-04 20:11:49|ArchiSteamFarm-26976|INFO|ASF|InitPlugins() 正在加载 ItemsMatcherPlugin V6.0.2.6……
+2024-05-04 20:11:49|ArchiSteamFarm-26976|INFO|ASF|InitPlugins() ItemsMatcherPlugin 加载成功！
+2024-05-04 20:11:49|ArchiSteamFarm-26976|INFO|ASF|InitPlugins() 正在加载 MobileAuthenticatorPlugin V6.0.2.6……
+2024-05-04 20:11:49|ArchiSteamFarm-26976|INFO|ASF|InitPlugins() MobileAuthenticatorPlugin 加载成功！
+2024-05-04 20:11:49|ArchiSteamFarm-26976|INFO|ASF|InitPlugins() 正在加载 SteamTokenDumperPlugin V6.0.2.6……
+2024-05-04 20:11:49|ArchiSteamFarm-26976|INFO|ASF|InitPlugins() SteamTokenDumperPlugin 加载成功！
+2024-05-04 20:11:49|ArchiSteamFarm-26976|INFO|ASF|UpdateAndRestart() ASF 将每隔 1 天自动检查新版本。
+2024-05-04 20:11:49|ArchiSteamFarm-26976|INFO|ASF|UpdateASF() 正在检查新版本……
+2024-05-04 20:11:50|ArchiSteamFarm-26976|INFO|ASF|UpdateASF() 当前版本：6.0.2.6 | 最新版本：6.0.2.6
+2024-05-04 20:11:50|ArchiSteamFarm-26976|INFO|ASF|Load() 正在加载 STD 全局缓存……
+2024-05-04 20:11:50|ArchiSteamFarm-26976|INFO|ASF|Load() 正在验证 STD 全局缓存完整性……
+2024-05-04 20:11:50|ArchiSteamFarm-26976|INFO|ASF|OnASFInit() 按照您的配置，SteamTokenDumperPlugin 当前被禁用。如果您愿意帮助 SteamDB 提交数据，请查看我们的 Wiki。
+2024-05-04 20:11:50|ArchiSteamFarm-26976|INFO|ASF|StartInteractiveConsole() 交互式控制台已启用，输入 c 以进入命令模式。
+2024-05-04 20:11:50|ArchiSteamFarm-26976|INFO|ASF|Start() 正在启动 IPC 服务……
+2024-05-04 20:11:50|ArchiSteamFarm-26976|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:1242
+2024-05-04 20:11:50|ArchiSteamFarm-26976|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2024-05-04 20:11:50|ArchiSteamFarm-26976|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2024-05-04 20:11:50|ArchiSteamFarm-26976|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Ivan\Desktop\Новая папка (2)
+2024-05-04 20:11:50|ArchiSteamFarm-26976|INFO|ASF|Start() IPC 服务已就绪！
+2024-05-04 20:11:50|ArchiSteamFarm-26976|INFO|ivan|Start() 正在启动……
+2024-05-04 20:11:50|ArchiSteamFarm-26976|INFO|ivan|Connect() 正在连接……
+2024-05-04 20:11:51|ArchiSteamFarm-26976|INFO|ivan|OnConnected() 已连接到 Steam！
+2024-05-04 20:11:51|ArchiSteamFarm-26976|INFO|ivan|OnConnected() 登录中……
+2024-05-04 20:11:51|ArchiSteamFarm-26976|INFO|ivan|OnLoggedOn() 成功以 76561198413180798/pilik123 的身份登录。
+2024-05-04 20:11:51|ArchiSteamFarm-26976|INFO|ivan|Init() 成功！
+2024-05-04 20:11:52|ArchiSteamFarm-26976|INFO|ivan|IsAnythingToFarm() 正在检查 Steam 徽章页面的第一页……
+2024-05-04 20:11:54|ArchiSteamFarm-26976|INFO|ivan|IsAnythingToFarm() 正在检查其他徽章页面……
+2024-05-04 20:11:58|ArchiSteamFarm-26976|INFO|ivan|Farm() 共 12 个游戏（39 张卡牌）等待挂卡（剩余时间约为 22 小时）……
+2024-05-04 20:11:58|ArchiSteamFarm-26976|INFO|ivan|Farm() 选择的挂卡算法：Complex
+2024-05-04 20:11:59|ArchiSteamFarm-26976|INFO|ivan|FarmSolo() 正在挂卡：924970（Back 4 Blood）
+2024-05-04 20:12:00|ArchiSteamFarm-26976|INFO|ivan|ShouldFarm() 挂卡状态 924970（Back 4 Blood）：剩余 2 张卡牌
+2024-05-04 20:12:00|ArchiSteamFarm-26976|INFO|ivan|FarmCards() 仍在挂卡：924970（Back 4 Blood）
+2024-05-04 20:27:16|ArchiSteamFarm-26976|INFO|ivan|ShouldFarm() 挂卡状态 924970（Back 4 Blood）：剩余 2 张卡牌
+2024-05-04 20:27:16|ArchiSteamFarm-26976|INFO|ivan|FarmCards() 仍在挂卡：924970（Back 4 Blood）
+2024-05-04 20:42:06|ArchiSteamFarm-26976|INFO|ivan|ShouldFarm() 挂卡状态 924970（Back 4 Blood）：剩余 1 张卡牌
+2024-05-04 20:42:06|ArchiSteamFarm-26976|INFO|ivan|FarmCards() 仍在挂卡：924970（Back 4 Blood）
+2024-05-04 20:57:22|ArchiSteamFarm-26976|INFO|ivan|ShouldFarm() 挂卡状态 924970（Back 4 Blood）：剩余 1 张卡牌
+2024-05-04 20:57:22|ArchiSteamFarm-26976|INFO|ivan|FarmCards() 仍在挂卡：924970（Back 4 Blood）
+2024-05-04 21:12:38|ArchiSteamFarm-26976|INFO|ivan|ShouldFarm() 挂卡状态 924970（Back 4 Blood）：剩余 1 张卡牌
+2024-05-04 21:12:38|ArchiSteamFarm-26976|INFO|ivan|FarmCards() 仍在挂卡：924970（Back 4 Blood）
+2024-05-04 21:27:54|ArchiSteamFarm-26976|INFO|ivan|ShouldFarm() 挂卡状态 924970（Back 4 Blood）：剩余 1 张卡牌
+2024-05-04 21:27:54|ArchiSteamFarm-26976|INFO|ivan|FarmCards() 仍在挂卡：924970（Back 4 Blood）
+2024-05-04 21:43:10|ArchiSteamFarm-26976|INFO|ivan|ShouldFarm() 挂卡状态 924970（Back 4 Blood）：剩余 1 张卡牌
+2024-05-04 21:43:10|ArchiSteamFarm-26976|INFO|ivan|FarmCards() 仍在挂卡：924970（Back 4 Blood）
+2024-05-04 21:58:26|ArchiSteamFarm-26976|INFO|ivan|ShouldFarm() 挂卡状态 924970（Back 4 Blood）：剩余 1 张卡牌
+2024-05-04 21:58:26|ArchiSteamFarm-26976|INFO|ivan|FarmCards() 仍在挂卡：924970（Back 4 Blood）
+2024-05-04 22:13:27|ArchiSteamFarm-26976|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
